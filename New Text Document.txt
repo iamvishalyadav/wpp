@@ -60,6 +60,8 @@ div.b {
   
     <input type="submit" value="Submit">
   </form>
+<a href="abc.html">view profile</a>
+<button onclick="window.location.href=abc.html">view profile</button>
 </div>
 </body>
 </html>
